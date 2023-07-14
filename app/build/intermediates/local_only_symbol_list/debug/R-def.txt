@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+drawable feid2
+drawable feid3
+drawable marcaferxxo
+drawable tile_preview
+id fragment_container
+id tabLayout
+id viewPager
+layout activity_main
+layout fragment_1
+layout fragment_2
+layout fragment_3
+mipmap ic_launcher
+string app_name
+string complication_label
+string hello_blank_fragment
+string hello_world
+string tile_label
+string title_activity_main
+string title_activity_presentation._main
