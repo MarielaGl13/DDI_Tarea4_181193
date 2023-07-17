@@ -14,8 +14,8 @@
 
 &nbsp;
 &nbsp;
-|  Característica |  Información |
+|  CaracterísticaS |  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea 4 |
-| Descripción  |  Implementación de una interfaz de usuario <br> con implementación de pantallas |
-|  Fecha de Carga | 26/05/23 |
+| **Nombre**  |  **Tarea 4.** *Implementación de una interfaz de usuario <br> con implementación de pantallas*|
+| **Descripción**  |  El cambio de pantallas en Wear OS es una característica clave que permite a los usuarios personalizar su experiencia con los dispositivos portátiles y adaptarla a sus necesidades individuales y preferencias de estilo. |
+|  **Fecha de Carga** | 26/05/23 |
